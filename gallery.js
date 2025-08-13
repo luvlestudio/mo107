@@ -46,7 +46,7 @@ window.onload = () => {
     Kakao.Share.sendDefault({
       objectType: "feed",
       content: {
-        title: "승현 ♥ 도영의 모바일 청첩장",
+        title: "승현 ♥ 도영 모바일 청첩장",
         description: "2025년 9월 21일 주일♡",
         imageUrl: "https://i.imgur.com/C25IKgM.png",
         imageWidth: 1200,
