@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "승현 ♥ 도영의 모바일 청첩장",
         description: "2025년 9월 21일 일요일♡",
-        imageUrl: "https://i.imgur.com/ycDSPX4.png",
+        imageUrl: "https://i.imgur.com/C25IKgM.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
